@@ -9,6 +9,13 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TGFT-0&layout=compact&langs_count=8&theme=algolia"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TGFT-0/TGFT-0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TGFT-0/TGFT-0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TGFT-0/TGFT-0/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <!---
 TGFT-0/TGFT-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click fthe Preview link to take a look at your changes.
